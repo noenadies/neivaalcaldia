@@ -5,12 +5,12 @@ var vinpnombre;
 var  vpass;
 function inicia(){
     var config = {
-        apiKey: "AIzaSyBJZNbNmUQekatLuc2NnXUBedh5hzLvRm0",
-        authDomain: "electoralempity.firebaseapp.com",
-        databaseURL: "https://electoralempity.firebaseio.com",
-        projectId: "electoralempity",
-        storageBucket: "electoralempity.appspot.com",
-        messagingSenderId: "366446292235"
+        apiKey: "AIzaSyDxTBmejHYGwAJmUyCQ_rigxOld748To04",
+        authDomain: "neivaalcaldia-70bf0.firebaseapp.com",
+        databaseURL: "https://neivaalcaldia-70bf0.firebaseio.com",
+        projectId: "neivaalcaldia-70bf0",
+        storageBucket: "neivaalcaldia-70bf0.appspot.com",
+        messagingSenderId: "39070089394"
       };
       firebase.initializeApp(config);
 
